@@ -26,4 +26,4 @@ martina@MartinaX1:/mnt/c/Windows/Documents/gsoc-application/ExampleEntryJasonKri
 Martina Verardi - Mar  5 2025
 ```
 
-martina@MartinaX1:/mnt/c/Windows/Documents/gsoc-application/ExampleEntryJasonKridner$Everything worked as expected, and the binary successfully ran under QEMU inside WSL.
+```martina@MartinaX1:/mnt/c/Windows/Documents/gsoc-application/ExampleEntryJasonKridner$Everything``` worked as expected, and the binary successfully ran under QEMU inside WSL.
